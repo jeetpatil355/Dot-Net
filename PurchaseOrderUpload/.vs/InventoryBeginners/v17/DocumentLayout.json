@@ -1,0 +1,1300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\poheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\poheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\purchaseorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\purchaseorder\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\purchaseorder\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\purchaseorder\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\repositories\\purchaseorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\purchaseorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\purchaseorder\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\purchaseorder\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\ipurchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\ipurchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\purchaseorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\purchaseorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\podetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\podetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\productgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\productgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\supplier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\supplier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\repositories\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\isupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\isupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\currency\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\currency\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\currency\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\currency\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\repositories\\currencyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\currencyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\supplier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\supplier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\currency\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\currency\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\currency\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\currency\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\currency\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\currency\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\ibrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\ibrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\icurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\icurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CodeSbyAniz\\InventoryBegin\\Migrations\\20220507102617_ModifyCurrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\unit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\unit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\shared\\_topbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\shared\\_bottombar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\shared\\_bottombar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\productprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\productprofile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\productgroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\productgroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\sortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\sortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\pagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\pagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\iproductprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\iproductprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\iproductgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\iproductgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\productprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\productprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\repositories\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\repositories\\productprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\productprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\users\\pcp\\onedrive\\desktop\\assignment\\purchaseorderupload\\repositories\\productgrouprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\productgrouprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T08:48:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T05:52:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PurchaseOrder\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Create.cshtml",
+              "RelativeToolTip": "Views\\PurchaseOrder\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:26:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Helper.cs",
+              "RelativeDocumentMoniker": "Models\\Helper.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Helper.cs",
+              "RelativeToolTip": "Models\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\PurchaseOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PurchaseOrderController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\PurchaseOrderController.cs",
+              "RelativeToolTip": "Controllers\\PurchaseOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:19:48.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:49:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PoHeader.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PoHeader.cs",
+              "RelativeDocumentMoniker": "Models\\PoHeader.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PoHeader.cs",
+              "RelativeToolTip": "Models\\PoHeader.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA4wD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\PurchaseOrder\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Delete.cshtml",
+              "RelativeToolTip": "Views\\PurchaseOrder\\Delete.cshtml",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAIwOcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:49:42.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PurchaseOrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\PurchaseOrderRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\PurchaseOrderRepo.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\PurchaseOrderRepo.cs",
+              "RelativeToolTip": "Repositories\\PurchaseOrderRepo.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAywDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:17:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IPurchaseOrder.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IPurchaseOrder.cs",
+              "RelativeToolTip": "Interfaces\\IPurchaseOrder.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:15:14.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\UnitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UnitController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\UnitController.cs",
+              "RelativeToolTip": "Controllers\\UnitController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAywAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PurchaseOrder\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PurchaseOrder\\Edit.cshtml",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAIwBABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:44:17.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAwwKMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T07:11:19.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAIwA0BAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-02T07:29:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\PurchaseOrder\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\PurchaseOrder\\Details.cshtml",
+              "RelativeToolTip": "Views\\PurchaseOrder\\Details.cshtml",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAIwP4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T07:31:33.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PoDetail.Cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PoDetail.Cs",
+              "RelativeDocumentMoniker": "Models\\PoDetail.Cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PoDetail.Cs",
+              "RelativeToolTip": "Models\\PoDetail.Cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductGroupController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\ProductGroupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductGroupController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\ProductGroupController.cs",
+              "RelativeToolTip": "Controllers\\ProductGroupController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABhwC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAqwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Supplier\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Details.cshtml",
+              "RelativeToolTip": "Views\\Supplier\\Details.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAABRwCgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\UnitRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UnitRepository.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\UnitRepository.cs",
+              "RelativeToolTip": "Repositories\\UnitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "Controllers\\CurrencyController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAxwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Currency.cs",
+              "RelativeToolTip": "Models\\Currency.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISupplier.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\ISupplier.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISupplier.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\ISupplier.cs",
+              "RelativeToolTip": "Interfaces\\ISupplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Currency\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Currency\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAMBdwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Data\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "Data\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Data\\InventoryContext.cs",
+              "RelativeToolTip": "Data\\InventoryContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Supplier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "Views\\Supplier\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAEBlwFoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CurrencyRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\CurrencyRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CurrencyRepo.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\CurrencyRepo.cs",
+              "RelativeToolTip": "Repositories\\CurrencyRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Currency\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Index.cshtml",
+              "RelativeToolTip": "Views\\Currency\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAEBlwFMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Currency\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Details.cshtml",
+              "RelativeToolTip": "Views\\Currency\\Details.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAEBlwCsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Currency\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Currency\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Supplier\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Supplier\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAEBlwCMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Currency\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Currency\\Create.cshtml",
+              "RelativeToolTip": "Views\\Currency\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAEBlwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Supplier\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Supplier\\Edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAEBlwCgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Supplier\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Supplier\\Create.cshtml",
+              "RelativeToolTip": "Views\\Supplier\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAEBlwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Unit.cs",
+              "RelativeDocumentMoniker": "Models\\Unit.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Unit.cs",
+              "RelativeToolTip": "Models\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IBrand.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IBrand.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBrand.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IBrand.cs",
+              "RelativeToolTip": "Interfaces\\IBrand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\CategoryRepo.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepo.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwGAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICurrency.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\ICurrency.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICurrency.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\ICurrency.cs",
+              "RelativeToolTip": "Interfaces\\ICurrency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAwwLAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20220507102617_ModifyCurrencies.cs",
+              "DocumentMoniker": "E:\\CodeSbyAniz\\InventoryBegin\\Migrations\\20220507102617_ModifyCurrencies.cs",
+              "ToolTip": "E:\\CodeSbyAniz\\InventoryBegin\\Migrations\\20220507102617_ModifyCurrencies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-07T10:26:17.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "Interfaces\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_topBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_topBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_topBar.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_topBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_topBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Unit\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Unit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Unit\\Index.cshtml",
+              "RelativeToolTip": "Views\\Unit\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_bottomBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_bottomBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_bottomBar.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Shared\\_bottomBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_bottomBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\ProductProfile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductProfile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\ProductProfile\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductProfile\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\ProductGroup\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductGroup\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\ProductGroup\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductGroup\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "Views\\Brand\\Index.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAqwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Brand\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Brand\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Brand\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Details.cshtml",
+              "RelativeToolTip": "Views\\Brand\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Brand\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Brand\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Views\\Brand\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T05:52:45.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SortModel.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\SortModel.cs",
+              "RelativeDocumentMoniker": "Models\\SortModel.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\SortModel.cs",
+              "RelativeToolTip": "Models\\SortModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Models\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\ProductProfile.cs",
+              "RelativeToolTip": "Models\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProductGroup.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\ProductGroup.cs",
+              "RelativeDocumentMoniker": "Models\\ProductGroup.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\ProductGroup.cs",
+              "RelativeToolTip": "Models\\ProductGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Models\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "Models\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PagerModel.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PagerModel.cs",
+              "RelativeDocumentMoniker": "Models\\PagerModel.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\PagerModel.cs",
+              "RelativeToolTip": "Models\\PagerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IUnit.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IUnit.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUnit.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IUnit.cs",
+              "RelativeToolTip": "Interfaces\\IUnit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IProductProfile.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductProfile.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IProductProfile.cs",
+              "RelativeToolTip": "Interfaces\\IProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IProductGroup.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IProductGroup.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductGroup.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\IProductGroup.cs",
+              "RelativeToolTip": "Interfaces\\IProductGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\ICategory.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategory.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Interfaces\\ICategory.cs",
+              "RelativeToolTip": "Interfaces\\ICategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\ProductProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductProfileController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\ProductProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProductProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ProductProfileRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\ProductProfileRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductProfileRepo.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\ProductProfileRepo.cs",
+              "RelativeToolTip": "Repositories\\ProductProfileRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BrandRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\BrandRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\BrandRepo.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\BrandRepo.cs",
+              "RelativeToolTip": "Repositories\\BrandRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ProductGroupRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\ProductGroupRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductGroupRepo.cs",
+              "ToolTip": "C:\\Users\\PCP\\OneDrive\\Desktop\\Assignment\\PurchaseOrderUpload\\Repositories\\ProductGroupRepo.cs",
+              "RelativeToolTip": "Repositories\\ProductGroupRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:52:45.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
